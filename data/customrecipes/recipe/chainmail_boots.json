@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "chest_boat",
+  "key": {
+    "#": "minecraft:chain"
+  },
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:chainmail_boots",
+    "components": {
+      "minecraft:max_damage": 174,
+      "minecraft:attribute_modifiers": [
+        {
+          "id": "67d5915d-af73-4538-a0a6-1493b69c7889",
+          "type": "armor",
+          "amount": 1.5,
+          "operation": "add_value"
+        }
+      ]
+    }
+  }
+}

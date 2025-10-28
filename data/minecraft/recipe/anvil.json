@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "iii",
+    " i ",
+    "iii"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:anvil"
+  }
+}

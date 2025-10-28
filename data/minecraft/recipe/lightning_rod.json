@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:copper_ingot",
+    "N": "minecraft:copper_nugget"
+  },
+  "pattern": [
+    "#",
+    "N",
+    "N"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:lightning_rod"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:amethyst_block",
+    "G": "minecraft:glass",
+    "T": "minecraft:ghast_tear"
+  },
+  "pattern": [
+    "GGG",
+    "GAG",
+    "GTG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:end_crystal"
+  }
+}

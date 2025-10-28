@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "chest_boat",
+  "key": {
+    "#": "minecraft:chain"
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:chainmail_leggings",
+    "components": {
+      "minecraft:max_damage": 201
+    }
+  }
+}

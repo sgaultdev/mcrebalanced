@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "#minecraft:netherite_tool_materials",
+  "base": "minecraft:diamond_boots",
+  "result": {
+    "id": "minecraft:netherite_boots",
+    "components": {
+      "minecraft:attribute_modifiers": [
+        {
+          "id": "f709863c-b221-44cc-a0b6-25ecd1758bdd",
+          "type": "armor_toughness",
+          "amount": 4,
+          "operation": "add_value"
+        }
+      ]
+    }
+  },
+  "template": "minecraft:netherite_upgrade_smithing_template"
+}

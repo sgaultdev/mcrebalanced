@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "#minecraft:wooden_slabs",
+    "D": "minecraft:dirt"
+  },
+  "pattern": [
+    "# #",
+    "# #",
+    "#D#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:composter"
+  }
+}

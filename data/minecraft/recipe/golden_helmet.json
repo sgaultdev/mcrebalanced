@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:gold_ingot"
+  },
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_helmet",
+    "components": {
+      "minecraft:max_damage": 276,
+      "minecraft:attribute_modifiers": [
+        {
+          "id": "8592fe4f-ef9c-4f0b-9e7d-29d5490a5ccc",
+          "type": "armor",
+          "amount": 3,
+          "operation": "add_value"
+        },
+        {
+          "id": "21565fa5-353f-4500-a043-fec1071e8c6d",
+          "type": "armor_toughness",
+          "amount": -1,
+          "operation": "add_value"
+        }
+      ]
+    }
+  }
+}

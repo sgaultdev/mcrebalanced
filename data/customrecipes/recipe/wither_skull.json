@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:skeleton_skull",
+    "minecraft:wither_rose",
+    "minecraft:wither_rose",
+    "minecraft:wither_rose",
+    "minecraft:wither_rose"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:wither_skeleton_skull"
+  }
+}

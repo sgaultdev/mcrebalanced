@@ -1,0 +1,25 @@
+{
+    "function": "set_components",
+    "components": {
+        "minecraft:attribute_modifiers": [
+            {
+                "id": "bcb87fc3-cabd-42f7-a1ed-714054bf538b",
+                "type": "armor",
+                "amount": 3,
+                "operation": "add_value"
+            },
+            {
+                "id": "f709863c-b221-44cc-a0b6-25ecd1758bdd",
+                "type": "armor_toughness",
+                "amount": 4,
+                "operation": "add_value"
+            },
+            {
+                "id": "8fc71d41-f247-4af6-b126-cad380c1956e",
+                "type": "knockback_resistance",
+                "amount": 0.1,
+                "operation": "add_value"
+            }
+        ]
+    }
+}

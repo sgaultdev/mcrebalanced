@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": "minecraft:compass",
+    "L": "minecraft:lapis_lazuli",
+    "A": "minecraft:amethyst_shard"
+  },
+  "pattern": [
+    "LAL",
+    "ACA",
+    "LAL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:recovery_compass"
+  }
+}

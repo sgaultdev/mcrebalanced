@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:obsidian",
+    "B": "minecraft:book",
+    "D": "minecraft:diamond",
+    "R": "minecraft:reinforced_deepslate"
+  },
+  "pattern": [
+    " B ",
+    "DRD",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:enchanting_table"
+  }
+}

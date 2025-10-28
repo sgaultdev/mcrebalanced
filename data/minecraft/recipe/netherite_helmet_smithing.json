@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "#minecraft:netherite_tool_materials",
+  "base": "minecraft:diamond_helmet",
+  "result": {
+    "id": "minecraft:netherite_helmet",
+    "components": {
+      "minecraft:attribute_modifiers": [
+        {
+          "id": "af7acbc0-54dc-4e9b-8c6e-8260fa3ae796",
+          "type": "armor_toughness",
+          "amount": 4,
+          "operation": "add_value"
+        }
+      ]
+    }
+  },
+  "template": "minecraft:netherite_upgrade_smithing_template"
+}

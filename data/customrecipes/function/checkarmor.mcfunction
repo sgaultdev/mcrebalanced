@@ -1,0 +1,1 @@
+execute as @e[tag=!rep] run function customrecipes:armorreplace

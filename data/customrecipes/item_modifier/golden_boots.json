@@ -1,0 +1,20 @@
+{
+    "function": "set_components",
+    "components": {
+      "minecraft:max_damage": 315,
+      "minecraft:attribute_modifiers": [
+            {
+                "id": "bcb87fc3-cabd-42f7-a1ed-714054bf538b",
+                "type": "armor",
+                "amount": 3,
+                "operation": "add_value"
+            },
+            {
+                "id": "17bcb65a-474f-43ef-b57d-224c52caf8d3",
+                "type": "armor_toughness",
+                "amount": -1,
+                "operation": "add_value"
+            }
+        ]
+    }
+}

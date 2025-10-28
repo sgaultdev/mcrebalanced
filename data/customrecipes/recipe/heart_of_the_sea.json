@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": "minecraft:prismarine_shard",
+    "D": "minecraft:lapis_lazuli",
+    "#": "minecraft:diamond"
+  },
+  "pattern": [
+    "XDX",
+    "D#D",
+    "XDX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:chest_minecart"
+  }
+}

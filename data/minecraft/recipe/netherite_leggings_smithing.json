@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "#minecraft:netherite_tool_materials",
+  "base": "minecraft:diamond_leggings",
+  "result": {
+    "id": "minecraft:netherite_leggings",
+    "components": {
+      "minecraft:attribute_modifiers": [
+        {
+          "id": "141d80f7-6ab1-4059-b08c-d85ae4544eff",
+          "type": "armor_toughness",
+          "amount": 4,
+          "operation": "add_value"
+        }
+      ]
+    }
+  },
+  "template": "minecraft:netherite_upgrade_smithing_template"
+}

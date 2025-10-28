@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:gold_ingot"
+  },
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_leggings",
+    "components": {
+      "minecraft:max_damage": 363,
+      "minecraft:attribute_modifiers": [
+        {
+          "id": "86a79a63-1660-4523-a597-e3a4d7b4b752",
+          "type": "armor",
+          "amount": 6,
+          "operation": "add_value"
+        },
+        {
+          "id": "4c279e63-85ad-4ddb-9e15-fb8d6c0df42d",
+          "type": "armor_toughness",
+          "amount": -1,
+          "operation": "add_value"
+        }
+      ]
+    }
+  }
+}
