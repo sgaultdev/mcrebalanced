@@ -26,6 +26,12 @@
           "type": "armor_toughness",
           "amount": -1,
           "operation": "add_value"
+        },
+        {
+          "id": "5dbb435a-87f6-41d3-94ea-ba114aed111f",
+          "type": "luck",
+          "amount": 1,
+          "operation": "add_value"
         }
       ]
     }

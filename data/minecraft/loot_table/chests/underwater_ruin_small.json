@@ -68,24 +68,8 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "set_components",
-              "components": {
-                "minecraft:max_damage": 276,
-                "minecraft:attribute_modifiers": [
-                  {
-                    "id": "8592fe4f-ef9c-4f0b-9e7d-29d5490a5ccc",
-                    "type": "armor",
-                    "amount": 3,
-                    "operation": "add_value"
-                  },
-                  {
-                    "id": "21565fa5-353f-4500-a043-fec1071e8c6d",
-                    "type": "armor_toughness",
-                    "amount": -1,
-                    "operation": "add_value"
-                  }
-                ]     
-              }
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_helmet"
             }
           ],
           "name": "minecraft:golden_helmet"

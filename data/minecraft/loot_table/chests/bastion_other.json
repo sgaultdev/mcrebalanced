@@ -211,24 +211,8 @@
               "options": "minecraft:soul_speed"
             },
             {
-              "function": "set_components",
-              "components": {
-                "minecraft:max_damage": 315,
-                "minecraft:attribute_modifiers": [
-                  {
-                    "id": "bcb87fc3-cabd-42f7-a1ed-714054bf538b",
-                    "type": "armor",
-                    "amount": 3,
-                    "operation": "add_value"
-                  },
-                  {
-                    "id": "17bcb65a-474f-43ef-b57d-224c52caf8d3",
-                    "type": "armor_toughness",
-                    "amount": -1,
-                    "operation": "add_value"
-                  }
-                ]
-              }
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_boots"
             }
           ],
           "name": "minecraft:golden_boots"
@@ -355,24 +339,8 @@
               "function": "minecraft:set_count"
             },
             {
-              "function": "set_components",
-              "components": {
-                "minecraft:max_damage": 387,
-                "minecraft:attribute_modifiers": [
-                  {
-                    "id": "de963d58-1d88-47a0-94f5-4a0064b566f7",
-                    "type": "armor",
-                    "amount": 8,
-                    "operation": "add_value"
-                  },
-                  {
-                   "id": "a9e0bc8b-9b73-4e6c-b0bd-e86d3b2e98ea",
-                    "type": "armor_toughness",
-                    "amount": -1,
-                    "operation": "add_value"
-                  }
-                ]
-              }
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_chestplate"
             }
           ],
           "name": "minecraft:golden_chestplate"
@@ -386,24 +354,8 @@
               "function": "minecraft:set_count"
             },
             {
-              "function": "set_components",
-              "components": {
-                "minecraft:max_damage": 276,
-                "minecraft:attribute_modifiers": [
-                  {
-                    "id": "8592fe4f-ef9c-4f0b-9e7d-29d5490a5ccc",
-                    "type": "armor",
-                    "amount": 3,
-                    "operation": "add_value"
-                  },
-                  {
-                    "id": "21565fa5-353f-4500-a043-fec1071e8c6d",
-                    "type": "armor_toughness",
-                    "amount": -1,
-                    "operation": "add_value"
-                  }
-                ]     
-              }
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_helmet"
             }
           ],
           "name": "minecraft:golden_helmet"
@@ -417,24 +369,8 @@
               "function": "minecraft:set_count"
             },
             {
-              "function": "set_components",
-              "components": {
-                "minecraft:max_damage": 363,
-                "minecraft:attribute_modifiers": [
-                  {
-                    "id": "86a79a63-1660-4523-a597-e3a4d7b4b752",
-                    "type": "armor",
-                    "amount": 6,
-                    "operation": "add_value"
-                  },
-                  {
-                    "id": "4c279e63-85ad-4ddb-9e15-fb8d6c0df42d",
-                    "type": "armor_toughness",
-                    "amount": -1,
-                    "operation": "add_value"
-                  }
-                ]
-              }
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_leggings"
             }
           ],
           "name": "minecraft:golden_leggings"
@@ -448,24 +384,8 @@
               "function": "minecraft:set_count"
             },
             {
-              "function": "set_components",
-              "components": {
-                "minecraft:max_damage": 315,
-                "minecraft:attribute_modifiers": [
-                  {
-                    "id": "bcb87fc3-cabd-42f7-a1ed-714054bf538b",
-                    "type": "armor",
-                    "amount": 3,
-                    "operation": "add_value"
-                  },
-                  {
-                    "id": "17bcb65a-474f-43ef-b57d-224c52caf8d3",
-                    "type": "armor_toughness",
-                    "amount": -1,
-                    "operation": "add_value"
-                  }
-                ]
-              }
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_boots"
             }
           ],
           "name": "minecraft:golden_boots"
