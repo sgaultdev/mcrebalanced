@@ -1,0 +1,23 @@
+{
+    "values": [
+        "minecraft:spider",
+        "minecraft:cave_spider",
+        "minecraft:silverfish",
+        "minecraft:cod",
+        "minecraft:salmon",
+        "minecraft:tropical_fish",
+        "minecraft:pufferfish",
+        "minecraft:guardian",
+        "minecraft:elder_guardian",
+        "minecraft:iron_golem",
+        {
+        "id": "minecraft:copper_golem",
+        "required": "false"
+        },
+        "minecraft:shulker",
+        "minecraft:enderman",
+        "minecraft:ender_dragon",
+        "minecraft:endermite",
+        "minecraft:armadillo"
+    ]
+}

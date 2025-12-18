@@ -1,21 +1,9 @@
 {
   "anvil_cost": 2,
   "description": {
-    "translate": "enchantment.minecraft.fire_protection"
+    "text": "Disrupting"
   },
   "effects": {
-    "minecraft:attributes": [
-      {
-        "amount": {
-          "type": "minecraft:linear",
-          "base": -0.25,
-          "per_level_above_first": -0.25
-        },
-        "attribute": "minecraft:burning_time",
-        "id": "minecraft:enchantment.fire_protection",
-        "operation": "add_multiplied_base"
-      }
-    ],
     "minecraft:damage_protection": [
       {
         "effect": {
@@ -35,7 +23,7 @@
                 "tags": [
                   {
                     "expected": true,
-                    "id": "minecraft:is_fire"
+                    "id": "#customrecipes:disrupting_protection"
                   },
                   {
                     "expected": false,

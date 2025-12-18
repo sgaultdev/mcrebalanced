@@ -114,6 +114,10 @@
                 "min": 0.15
               },
               "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_axe"
             }
           ],
           "name": "minecraft:golden_axe",
@@ -135,6 +139,10 @@
                 "min": 0.15
               },
               "function": "minecraft:set_damage"
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_pickaxe"
             }
           ],
           "name": "minecraft:golden_pickaxe",

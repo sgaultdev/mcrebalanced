@@ -12,7 +12,7 @@
     "count": 1,
     "id": "minecraft:golden_boots",
     "components": {
-      "minecraft:max_damage": 315,
+      "minecraft:max_damage": 312,
       "minecraft:attribute_modifiers": [
         {
           "id": "bcb87fc3-cabd-42f7-a1ed-714054bf538b",

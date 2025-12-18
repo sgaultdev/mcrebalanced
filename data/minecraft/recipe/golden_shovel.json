@@ -12,6 +12,23 @@
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:golden_shovel"
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:max_damage": 906,
+      "minecraft:attribute_modifiers": [
+        {
+          "id": "4e18139c-f3de-41d8-8eed-43beb7e9b2b9",
+          "type": "attack_speed",
+          "amount": -2.6,
+          "operation": "add_value"
+        },
+        {
+          "id": "bc9489fe-bab2-4a12-bf1b-399a6f476a18",
+          "type": "luck",
+          "amount": 1,
+          "operation": "add_value"
+        }
+      ]
+    }
   }
 }

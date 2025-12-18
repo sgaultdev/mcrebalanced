@@ -1,0 +1,20 @@
+{
+  "function": "set_components",
+  "components": {
+    "minecraft:max_damage": 906,
+    "minecraft:set_components": [
+      {
+        "id": "4a63d848-c9f2-4836-8309-168577e4b759",
+        "type": "attack_speed",
+        "amount": -2.4,
+        "operation": "add_value"
+      },
+      {
+        "id": "775fe4d6-5181-4cca-8d25-6f71e4c8a8f2",
+        "type": "luck",
+        "amount": 1,
+        "operation": "add_value"
+      }
+    ]
+  }
+}

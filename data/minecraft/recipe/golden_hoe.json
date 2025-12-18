@@ -12,6 +12,23 @@
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:golden_hoe"
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:max_damage": 906,
+      "minecraft:attribute_modifiers": [
+        {
+          "id": "46491599-9f2a-4b00-9d57-c5187141cba7",
+          "type": "attack_speed",
+          "amount": -2.6,
+          "operation": "add_value"
+        },
+        {
+          "id": "f603a54b-74bd-473c-8eb2-283f27a88f45",
+          "type": "luck",
+          "amount": 1,
+          "operation": "add_value"
+        }
+      ]
+    }
   }
 }

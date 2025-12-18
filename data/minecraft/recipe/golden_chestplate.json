@@ -13,7 +13,7 @@
     "count": 1,
     "id": "minecraft:golden_chestplate",
     "components": {
-      "minecraft:max_damage": 387,
+      "minecraft:max_damage": 384,
       "minecraft:attribute_modifiers": [
         {
           "id": "de963d58-1d88-47a0-94f5-4a0064b566f7",

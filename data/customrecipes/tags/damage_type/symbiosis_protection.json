@@ -1,0 +1,30 @@
+{
+    "values": [
+        "minecraft:cactus",
+        "minecraft:campfire",
+        "minecraft:cramming",
+        "minecraft:drown",
+        "minecraft:ender_pearl",
+        "minecraft:explosion",
+        "minecraft:fall",
+        "minecraft:falling_anvil",
+        "minecraft:falling_block",
+        "minecraft:falling_stalactite",
+        "minecraft:fireball",
+        "minecraft:fireworks",
+        "minecraft:fly_into_wall",
+        "minecraft:freeze",
+        "minecraft:hot_floor",
+        "minecraft:in_fire",
+        "minecraft:in_wall",
+        "minecraft:lava",
+        "minecraft:lightning_bolt",
+        "minecraft:on_fire",
+        "minecraft:player_explosion",
+        "minecraft:sonic_boom",
+        "minecraft:stalagmite",
+        "minecraft:starve",
+        "minecraft:sweet_berry_bush",
+        "minecraft:unattributed_fireball"
+    ]
+}

@@ -10,4 +10,9 @@ execute if predicate customrecipes:netherite_helmet run item modify entity @s ar
 execute if predicate customrecipes:netherite_chestplate run item modify entity @s armor.chest customrecipes:netherite_chestplate
 execute if predicate customrecipes:netherite_leggings run item modify entity @s armor.legs customrecipes:netherite_leggings
 execute if predicate customrecipes:netherite_boots run item modify entity @s armor.feet customrecipes:netherite_boots
+execute if predicate customrecipes:golden_sword run item modify entity @s armor.feet customrecipes:golden_sword
+execute if predicate customrecipes:golden_pickaxe run item modify entity @s armor.feet customrecipes:golden_pickaxe
+execute if predicate customrecipes:golden_axe run item modify entity @s armor.feet customrecipes:golden_axe
+execute if predicate customrecipes:golden_shovel run item modify entity @s armor.feet customrecipes:golden_shovel
+execute if predicate customrecipes:golden_hoe run item modify entity @s armor.feet customrecipes:golden_hoe
 tag @s add rep

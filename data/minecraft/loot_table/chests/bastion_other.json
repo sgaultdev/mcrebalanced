@@ -228,6 +228,10 @@
             {
               "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_axe"
             }
           ],
           "name": "minecraft:golden_axe"
@@ -326,6 +330,10 @@
               "add": false,
               "count": 1.0,
               "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_sword"
             }
           ],
           "name": "minecraft:golden_sword"

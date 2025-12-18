@@ -1,7 +1,7 @@
 {
   "anvil_cost": 4,
   "description": {
-    "translate": "enchantment.minecraft.blast_protection"
+    "text": "Symbiosis"
   },
   "effects": {
     "minecraft:attributes": [
@@ -14,6 +14,16 @@
         "attribute": "minecraft:explosion_knockback_resistance",
         "id": "minecraft:enchantment.blast_protection",
         "operation": "add_value"
+      },
+      {
+        "amount": {
+          "type": "minecraft:linear",
+          "base": -0.25,
+          "per_level_above_first": -0.25
+        },
+        "attribute": "minecraft:burning_time",
+        "id": "minecraft:enchantment.fire_protection",
+        "operation": "add_multiplied_base"
       }
     ],
     "minecraft:damage_protection": [
@@ -32,7 +42,7 @@
             "tags": [
               {
                 "expected": true,
-                "id": "minecraft:is_explosion"
+                "id": "#customrecipes:symbiosis_protection"
               },
               {
                 "expected": false,
@@ -46,12 +56,12 @@
   },
   "exclusive_set": "#minecraft:exclusive_set/armor",
   "max_cost": {
-    "base": 13,
+    "base": 18,
     "per_level_above_first": 8
   },
   "max_level": 4,
   "min_cost": {
-    "base": 5,
+    "base": 10,
     "per_level_above_first": 8
   },
   "slots": [

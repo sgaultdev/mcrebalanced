@@ -89,6 +89,10 @@
             {
               "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_sword"
             }
           ],
           "name": "minecraft:golden_sword",
@@ -100,6 +104,10 @@
             {
               "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_axe"
             }
           ],
           "name": "minecraft:golden_axe",
@@ -111,6 +119,10 @@
             {
               "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_shovel"
             }
           ],
           "name": "minecraft:golden_hoe",
@@ -122,6 +134,10 @@
             {
               "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_shovel"
             }
           ],
           "name": "minecraft:golden_shovel",
@@ -133,6 +149,10 @@
             {
               "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "customrecipes:golden_pickaxe"
             }
           ],
           "name": "minecraft:golden_pickaxe",

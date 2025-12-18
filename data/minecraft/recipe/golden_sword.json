@@ -12,6 +12,23 @@
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:golden_sword"
+    "id": "minecraft:golden_sword",
+    "components": {
+      "minecraft:max_damage": 906,
+      "minecraft:attribute_modifiers": [
+        {
+          "id": "de963d58-1d88-47a0-94f5-4a0064b566f7",
+          "type": "attack_speed",
+          "amount": -2.0,
+          "operation": "add_value"
+        },
+        {
+          "id": "401d2778-9c64-4823-9e8a-9f546875a09c",
+          "type": "luck",
+          "amount": 1,
+          "operation": "add_value"
+        }
+      ]
+    }
   }
 }

@@ -12,6 +12,23 @@
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:golden_axe"
+    "id": "minecraft:golden_axe",
+    "components": {
+      "minecraft:max_damage": 906,
+      "minecraft:attribute_modifiers": [
+        {
+          "id": "534bf3e1-4b78-4481-b446-e70928a2b717",
+          "type": "attack_speed",
+          "amount": -2.6,
+          "operation": "add_value"
+        },
+        {
+          "id": "c6f112b3-153d-49ff-8c8d-4670087b797e",
+          "type": "luck",
+          "amount": 1,
+          "operation": "add_value"
+        }
+      ]
+    }
   }
 }

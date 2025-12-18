@@ -13,7 +13,7 @@
     "count": 1,
     "id": "minecraft:golden_leggings",
     "components": {
-      "minecraft:max_damage": 363,
+      "minecraft:max_damage": 360,
       "minecraft:attribute_modifiers": [
         {
           "id": "86a79a63-1660-4523-a597-e3a4d7b4b752",

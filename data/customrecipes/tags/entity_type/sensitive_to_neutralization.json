@@ -1,0 +1,14 @@
+{
+    "values": [
+        "minecraft:blaze",
+        "minecraft:breeze",
+        "minecraft:creeper",
+        "minecraft:ghast",
+        "minecraft:magma_cube",
+        "minecraft:slime",
+        "minecraft:vex",
+        "minecraft:allay",
+        "minecraft:warden",
+        "minecraft:snow_golem"
+    ]
+}

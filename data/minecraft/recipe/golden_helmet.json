@@ -12,7 +12,7 @@
     "count": 1,
     "id": "minecraft:golden_helmet",
     "components": {
-      "minecraft:max_damage": 276,
+      "minecraft:max_damage": 264,
       "minecraft:attribute_modifiers": [
         {
           "id": "8592fe4f-ef9c-4f0b-9e7d-29d5490a5ccc",
