@@ -1,5 +1,5 @@
 {
-  "anvil_cost": 1,
+  "anvil_cost": 2,
   "description": {
     "text": "Dispersing"
   },
@@ -23,7 +23,7 @@
                 "tags": [
                   {
                     "expected": true,
-                    "id": "#customrecipes:dispersing_protection"
+                    "id": "customrecipes:dispersing_protection"
                   },
                   {
                     "expected": false,

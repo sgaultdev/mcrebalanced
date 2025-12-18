@@ -23,7 +23,7 @@
                 "tags": [
                   {
                     "expected": true,
-                    "id": "#customrecipes:disrupting_protection"
+                    "id": "customrecipes:disrupting_protection"
                   },
                   {
                     "expected": false,

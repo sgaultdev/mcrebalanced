@@ -20,7 +20,7 @@
             "tags": [
               {
                 "expected": true,
-                "id": "#customrecipes:deflecting_protection"
+                "id": "customrecipes:deflecting_protection"
               },
               {
                 "expected": false,
