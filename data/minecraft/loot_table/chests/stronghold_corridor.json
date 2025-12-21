@@ -23,7 +23,7 @@
             }
           ],
           "name": "minecraft:diamond",
-          "weight": 3
+          "weight": 2
         },
         {
           "type": "minecraft:item",

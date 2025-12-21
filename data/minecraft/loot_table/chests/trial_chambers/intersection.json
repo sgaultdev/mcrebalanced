@@ -50,7 +50,7 @@
             }
           ],
           "name": "minecraft:diamond_axe",
-          "weight": 5
+          "weight": 3
         },
         {
           "type": "minecraft:item",
@@ -71,7 +71,7 @@
             }
           ],
           "name": "minecraft:diamond_pickaxe",
-          "weight": 5
+          "weight": 2
         },
         {
           "type": "minecraft:item",
@@ -87,7 +87,7 @@
             }
           ],
           "name": "minecraft:diamond",
-          "weight": 10
+          "weight": 3
         },
         {
           "type": "minecraft:item",

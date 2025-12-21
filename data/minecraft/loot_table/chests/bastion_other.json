@@ -18,7 +18,7 @@
             }
           ],
           "name": "minecraft:diamond_pickaxe",
-          "weight": 6
+          "weight": 3
         },
         {
           "type": "minecraft:item",
@@ -30,7 +30,7 @@
             }
           ],
           "name": "minecraft:diamond_shovel",
-          "weight": 6
+          "weight": 3
         },
         {
           "type": "minecraft:item",

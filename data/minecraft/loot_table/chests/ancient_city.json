@@ -85,7 +85,7 @@
             }
           ],
           "name": "minecraft:diamond_hoe",
-          "weight": 2
+          "weight": 1
         },
         {
           "type": "minecraft:item",
@@ -115,7 +115,7 @@
             }
           ],
           "name": "minecraft:diamond_pickaxe",
-          "weight": 2
+          "weight": 1
         },
         {
           "type": "minecraft:item",
@@ -139,7 +139,7 @@
             }
           ],
           "name": "minecraft:diamond_horse_armor",
-          "weight": 2
+          "weight": 1
         },
         {
           "type": "minecraft:item",
@@ -181,7 +181,7 @@
             }
           ],
           "name": "minecraft:diamond_helmet",
-          "weight": 2
+          "weight": 1
         },
         {
           "type": "minecraft:item",
@@ -197,7 +197,7 @@
             }
           ],
           "name": "minecraft:diamond_chestplate",
-          "weight": 2
+          "weight": 1
         },
         {
           "type": "minecraft:item",
@@ -213,7 +213,7 @@
             }
           ],
           "name": "minecraft:diamond_leggings",
-          "weight": 2
+          "weight": 1
         },
         {
           "type": "minecraft:item",
@@ -229,7 +229,7 @@
             }
           ],
           "name": "minecraft:diamond_boots",
-          "weight": 2
+          "weight": 1
         },
         {
           "type": "minecraft:item",
